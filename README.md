@@ -1,6 +1,6 @@
-# Code-Lab-2
+# Code-Lab-2 - Amey Darwhekar
 MSIS 2628 - Applied Cloud Computing - Code Lab 2
-Amey Darwhekar
+
 
 Steps to run:
 1. Clone the git repo
@@ -10,3 +10,5 @@ Steps to run:
 5. Run the notebook and verify results
 
 Thank you!
+
+Amey Darwhekar
